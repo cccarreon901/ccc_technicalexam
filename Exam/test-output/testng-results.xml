@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-03T22:32:44 SGT" name="Default suite" finished-at="2025-10-03T22:32:57 SGT" duration-ms="13192">
+    <groups>
+    </groups>
+    <test started-at="2025-10-03T22:32:44 SGT" name="Default test" finished-at="2025-10-03T22:32:57 SGT" duration-ms="13192">
+      <class name="MainActions.CompareUIandAPI">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MainActions.CompareUIandAPI@5b8dfcc1]" started-at="2025-10-03T22:32:44 SGT" name="setUp" finished-at="2025-10-03T22:32:51 SGT" duration-ms="6493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testButtonLabelsMatchAPI()[pri:0, instance:MainActions.CompareUIandAPI@5b8dfcc1]" started-at="2025-10-03T22:32:51 SGT" name="testButtonLabelsMatchAPI" finished-at="2025-10-03T22:32:57 SGT" duration-ms="6067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testButtonLabelsMatchAPI -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MainActions.CompareUIandAPI@5b8dfcc1]" started-at="2025-10-03T22:32:57 SGT" name="tearDown" finished-at="2025-10-03T22:32:57 SGT" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MainActions.CompareUIandAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
